@@ -1,0 +1,136 @@
+.containerr {
+  max-width: 69.375rem;
+  margin: 0 auto;
+  padding: 6rem 1.5rem 6rem 1.5rem; // movil 4.375
+}
+
+.articles {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.article-content {
+}
+.article-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.875rem;
+}
+.article-item {
+  border-radius: 0.3125rem;
+}
+.article-cury {
+  background-image: url("../images/image-currency.jpg");
+  height: 12.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.article-res {
+  background-image: url("../images/image-restaurant.jpg");
+  height: 12.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.article-avion {
+  background-image: url("../images/image-plane.jpg");
+  height: 12.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.article-azul {
+  background-image: url("../images/image-confetti.jpg");
+  height: 12.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.article-author {
+  font-size: 0.625rem;
+  margin-bottom: 0.5rem;
+}
+.article-title {
+  font-size: 1.0625rem;
+  color: hsl(233, 26%, 24%);
+  margin-bottom: 0.5rem;
+}
+.article-description {
+  font-size: 0.8125rem;
+  color: hsl(233, 8%, 62%);
+}
+.article-text {
+  padding: 1.875rem 1.5625rem;
+}
+.article-item {
+  border-radius: 0.3125rem;
+  background-color: white;
+  box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.15);
+  transition: all 150ms ease-in-out;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .articles {
+    background-color: hsl(0, 0%, 98%);
+  }
+
+  .article-content {
+  }
+  .article-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.875rem;
+  }
+  .article-item {
+    border-radius: 0.3125rem;
+    background-color: white;
+  }
+  .article-text {
+    padding: 1.875rem 1.875rem 2.5rem 1.875rem;
+  }
+  .article-cury {
+    background-image: url("../images/image-currency.jpg");
+    height: 12.5rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  .article-res {
+    background-image: url("../images/image-restaurant.jpg");
+    height: 12.5rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  .article-avion {
+    background-image: url("../images/image-plane.jpg");
+    height: 12.5rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  .article-azul {
+    background-image: url("../images/image-confetti.jpg");
+    height: 12.5rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  .article-author {
+    font-size: 0.625rem;
+    margin-bottom: 0.75rem;
+  }
+  .article-title {
+    font-size: 1.0625rem;
+    color: hsl(233, 26%, 24%);
+    margin-bottom: 0.5rem;
+  }
+  .article-description {
+    font-size: 0.8125rem;
+    color: hsl(233, 8%, 62%);
+  }
+}
