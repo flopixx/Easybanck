@@ -4,7 +4,7 @@
 
 <h2>Ver 👇🏼</h2>
 
-<a href="https://app.netlify.com/sites/bankeasyy/overview"></a>
+<a href="https://app.netlify.com/sites/bankeasyy/overview">Ver</a>
 
   <h2>Mobil 📱</h2>
 <img src="https://github.com/flopixx/Easybanck/blob/master/src/images/Easybank.png"/>
