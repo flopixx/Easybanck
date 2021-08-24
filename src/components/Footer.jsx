@@ -17,6 +17,7 @@ const Footer = () => {
         <a href="#">
           <img src={face} alt="" />
         </a>
+
         <a href="#">
           <img src={you} alt="" />
         </a>

@@ -1,8 +1,18 @@
-# Getting Started with Create React App
+# Easybank 💳 💲
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Pagina echa con React y Sass de frontendmentor 💖💖💖</h1>
 
-## Available Scripts
+<h2>Ver 👇🏼</h2>
+
+<a href="https://app.netlify.com/sites/bankeasyy/overview"></a>
+
+  <h2>Mobil 📱</h2>
+<img src="https://github.com/flopixx/Easybanck/blob/master/src/images/Easybank.png"/>
+
+<h2>Desktop 💻</h2>
+<img src="https://github.com/flopixx/Easybanck/blob/master/src/images/Easybank%20(1).png"/>
+
+🚀 npm start o npm run start
 
 In the project directory, you can run:
 
