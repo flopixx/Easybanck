@@ -7,7 +7,7 @@
 <a href="https://bankeasyy.netlify.app/">Ver</a>
 
   <h2>Mobil 📱</h2>
-<img src="https://github.com/flopixx/Easybanck/blob/master/src/images/Easybank.png"/>
+<img src="https://github.com/flopixx/Easybanck/blob/master/src/images/easy.png"/>
 
 <h2>Desktop 💻</h2>
 <img src="https://github.com/flopixx/Easybanck/blob/master/src/images/Easybank%20(1).png"/>
